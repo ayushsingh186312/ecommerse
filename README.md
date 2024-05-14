@@ -62,7 +62,7 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://github.com/followDev)
+If you have any feedback, please reach out to me [here](https://github.com/ayushsingh186312)
 
 
 # E-commerce-Website
