@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://subtle-banoffee-000783.netlify.app/
+https://ecommerseee.netlify.app/
 
 ## Features
 
