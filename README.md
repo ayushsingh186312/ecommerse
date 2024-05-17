@@ -17,19 +17,19 @@ https://ecommerseee.netlify.app/
 
 ![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
 ###### Items Page
-![About Page](https://github.com/ayushsingh186312/resume_builder/blob/master/Items.png)
+![About Page](https://github.com/ayushsingh186312/ecommerse/blob/master/Items.PNG)
 
 ###### Carts Page
-![Dark Mode](https://github.com/ayushsingh186312/resume_builder/blob/master/Carts.png)
+![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Carts.png)
 
 ###### Login Page
-![Dark Mode](https://github.com/ayushsingh186312/resume_builder/blob/master/Login.png)
+![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Login.png)
 
 ###### Registration Page
-![Dark Mode](https://github.com/ayushsingh186312/resume_builder/blob/master/Registraion.png)
+![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Registraion.png)
 
 ###### Contects Page
-![Dark Mode](https://github.com/ayushsingh186312/resume_builder/blob/master/Contect.png)
+![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Contect.png)
 
 ## Run Locally
 
@@ -78,3 +78,7 @@ If you have any feedback, please reach out to me [here](https://github.com/ayush
 
 
 # E-commerce-Website
+
+
+###Author
+####Ayush Singh 
