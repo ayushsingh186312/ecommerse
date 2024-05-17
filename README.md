@@ -26,7 +26,7 @@ https://ecommerseee.netlify.app/
 ![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Login.PNG)
 
 ###### Registration Page
-![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Registraion.PNG)
+![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Registration.PNG)
 
 ###### Contects Page
 ![Dark Mode](https://github.com/ayushsingh186312/ecommerse/blob/master/Contect.PNG)
